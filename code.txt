@@ -3,3 +3,4 @@ HOPE YOU ARE FINE
 HYE
 bye
 bubye
+auto push
